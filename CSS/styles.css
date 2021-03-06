@@ -1,0 +1,139 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+
+.top-container{
+   
+background-color: #e4f9f5;
+position:relative;
+padding-top: 100px;
+line-height: 2em;
+}
+
+.middle-container{
+   
+    margin-bottom: 0;
+
+}
+.bottom-container{
+    background-color: #66BFBF;
+    margin-top: 50px;
+
+}
+h1{
+   margin:auto;
+   
+font-family: 'Sacramento', cursive;
+font-size: 2.5rem;
+color: #66BFBF;
+   
+}
+h2{
+   
+        color:#66BFBF;
+}
+h3{
+    color:#66BFBF;
+
+}
+
+
+.programming-img{
+    border-radius:10%;
+    height: 8rem;
+    float:left;
+    margin-right: 30px;
+}
+
+.school-img{
+    border-radius:10%;
+    height: 8rem;
+    float:right;
+    margin-right: 30px;
+
+}
+.certificate-img{
+    border-radius:10%;
+    height: 8rem;
+    float:right;
+    margin-right: 30px;
+}
+.grades-img{
+    border-radius:10%;
+    height: 8rem;
+    float:left;
+    margin-right: 30px;
+   
+}
+.hobbies-img{
+    float:left;
+    margin-right: 30px;
+    border-radius:10%;
+    height: 8rem;
+
+}
+
+
+
+
+.top-cloud{
+    position:absolute;
+    top: 50px;
+    right: 300px;
+    
+}
+.bottom-cloud{
+ position: absolute;
+ 
+}
+.pro{
+    font-family: 'Merriweather', serif;
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+  
+
+}
+.Hobbies-edu-grades{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+
+}
+hr{
+    border-style:dotted;
+  width: 5rem;
+  border:5px dotted #7b8080;
+ 
+    
+}
+button{
+   background-color: #66BFBF;
+   padding: 10px 24px;
+   border: 2px solid #66BFBF;
+   border-radius: 8PX;
+}
+.btn{
+    font-family:  serif;
+    color: cornsilk;
+    text-decoration: none;
+  font-size:1rem ;
+  
+}
+.footer-link{
+    text-decoration: none;
+    color: #11999E;
+
+}
+.copyrights{
+    color: #EAF6F6;
+}
+
+
+
+
